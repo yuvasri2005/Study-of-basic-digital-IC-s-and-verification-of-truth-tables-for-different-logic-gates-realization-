@@ -84,6 +84,8 @@ RegisterNumber: 212222050061
 Logic symbol & Truthtable
 
 RTL realization
+
+
 ![Screenshot 2023-04-19 141249](https://user-images.githubusercontent.com/129949620/233020782-f8a5f1c8-6558-4c66-862f-24d3ff71ea98.png)
 
 

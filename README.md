@@ -83,6 +83,10 @@ RegisterNumber: 212222050061
 
 Logic symbol & Truthtable
 
+![cfb4d97c-38e8-4cfe-8b6f-bc6540ad27f6](https://github.com/yuvasri2005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/129949620/fa0df3c6-2ead-46b9-a917-1245552418fc)
+
+
+
 RTL realization
 
 
@@ -93,9 +97,11 @@ Output:
 
 RTL
 
-Result:
+
 ![Screenshot 2023-04-19 141821](https://user-images.githubusercontent.com/129949620/233021594-61cf2e0b-4cc4-41a2-8cb8-d8c3b45728a8.png)
 
+
+Result:
 
 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.

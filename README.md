@@ -122,7 +122,7 @@ RTL realization
 
 Output:
 
-RTL
+
 
 
 ![Screenshot 2023-04-19 141821](https://user-images.githubusercontent.com/129949620/233021594-61cf2e0b-4cc4-41a2-8cb8-d8c3b45728a8.png)

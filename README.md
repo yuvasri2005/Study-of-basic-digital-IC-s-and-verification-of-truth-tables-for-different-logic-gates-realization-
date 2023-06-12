@@ -80,7 +80,32 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: YUVASRI K
 
 RegisterNumber: 212222050061
-![Screenshot 2023-04-19 133918](https://user-images.githubusercontent.com/129949620/233020502-98c7a37e-1920-46d4-819e-0c8255658aae.png)
+
+
+module logicsgates(a,b,o1,o2,o3,o4,o5,o6,o7);
+
+input a,b;
+
+output o1,o2,o3,o4,o5,o6,o7;
+
+and(01,a,b);
+
+or(02,a,b);
+
+xor(03,a,b);
+
+nand(o4,a,b);
+
+nor(o5,a,,b);
+
+xnor(o6,a,b);
+
+not(o7,a);
+
+endmodule
+
+
+
 
 
 Logic symbol & Truthtable
